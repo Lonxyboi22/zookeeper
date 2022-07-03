@@ -134,6 +134,15 @@
         "goofy"
       ],
       "id": "16"
+    },
+    {
+      "name": "Lemmy",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "17"
     }
   ]
 }
